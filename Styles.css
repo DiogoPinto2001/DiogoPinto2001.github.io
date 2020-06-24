@@ -1,0 +1,102 @@
+body{
+    
+    background-color: black;
+    background-image: url(telapreta.png);
+    background-repeat: repeat-y;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+a: link, a:visited {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 14px 25px;
+    text-align: center;
+    background-color: #f44336;
+}
+
+a: hover{
+    background-color: black;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+li {
+    width: 100%;
+}
+
+.conteudo{
+    background-color: black;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.wrapper {
+    display: block;
+}
+
+.nav {
+    display: block;
+    height: 100px;
+    text-align: center;  
+}
+
+.nav h1 {
+    text-align: left;
+}
+
+.p {
+    color:#000000;
+}
+
+.OnePiece {
+    background: white;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.Naruto {
+    background: white;
+    font-size: 24px;
+    padding: 20px;
+    
+}
+
+#Menu ul{
+    padding: 44px;
+    margin: 30px;
+    background-image: url(onepieceanime.jpg);
+    list-style: none;
+} 
+
+.NarutoTitle {
+    padding: 24px;
+    margin: 20px;
+    background-color: #000000;
+    
+    
+}
+.OP {
+    padding: 24px;
+    margin: 20px;
+    background-color: #000000;
+    
+    
+}
+
+    
+.Oda {
+    padding: 24px;
+    margin: 20px;
+    
+    
+}
+
+.foto {
+    background-color: #000000;
+}
